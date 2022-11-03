@@ -1,4 +1,8 @@
+This entire code set is entirely DEPRECATED.
+
 WARNING: This code does not compile and has multiple bugs.
+
+
 
 # electron-base
 ```
