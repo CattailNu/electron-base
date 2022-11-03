@@ -1,3 +1,5 @@
+WARNING: This code does not compile and has multiple bugs.
+
 # electron-base
 ```
 npm i electron --save-dev
